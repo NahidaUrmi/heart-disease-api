@@ -116,6 +116,16 @@ Deployment steps:
 6. Deploy the service.
 7. Test the deployed API using the `/docs` endpoint or API requests.
 
+## Live Deployment
+
+The API is deployed on Render and is publicly accessible.
+
+**Live API:**  
+https://heart-disease-api-t9v7.onrender.com
+
+**Interactive API Documentation:**  
+https://heart-disease-api-t9v7.onrender.com/docs
+
 ## Model
 
 The trained machine learning model is stored in:
